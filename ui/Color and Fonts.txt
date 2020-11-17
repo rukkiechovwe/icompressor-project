@@ -1,0 +1,9 @@
+Color Used: 
+
+#0481ff (Blue)
+#001a4f (Dark Blue)
+#ecf4ff (Background Super Light Blue)
+
+Fonts:
+ Poppins - Headings
+Montserrat - for text and for others.
